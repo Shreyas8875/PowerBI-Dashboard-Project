@@ -1,1 +1,2 @@
 # PowerBI-Dashboard-Project
+Developed a Credit Card Analysis Dashboard in Power BI to analyze customer spending behavior and transaction trends. The dashboard includes a Credit Card Customer Report for segmenting users based on demographics, spending patterns, and credit utilization, and a Credit Card Transaction Report to track transaction frequency, spending categories, and fraud detection indicators. This project enhances financial insights and supports data-driven decision-making.
